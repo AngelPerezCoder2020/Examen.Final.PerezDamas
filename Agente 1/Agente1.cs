@@ -23,7 +23,7 @@ namespace Agentes
                 Funciones.Enviar(w, cola);
                 Console.WriteLine("Trabajando... \n");
                 Console.WriteLine($"Mensajes Encolados: {y}");
-                Thread.Sleep(3000);
+                Thread.Sleep(2000);
             }while(x == 0);
         }
     }

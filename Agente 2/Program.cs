@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using Google.Cloud.Firestore;
 using Experimental.System.Messaging;
 
@@ -8,11 +9,20 @@ namespace Agente2
     {
         static async System.Threading.Tasks.Task Main(string[] args)
         {
+            int x = 0;
+            int y = 0;
             Console.Clear();
             MessageQueue cola = new MessageQueue(".\\private$\\Nombres.Aleatorios");
             Funcionalidades Funciones = new Funcionalidades();
             FirestoreDb db = FirestoreDb.Create("examenfinal-angelperez");
-            await Funciones.EnviarAlaNubeAsync(cola, db);
+
+            while(x==0){
+                y++;
+                await Funciones.EnviarAlaNubeAsync(cola, db);
+                Console.WriteLine("Trabajando...");
+                Console.WriteLine($"Mensajes Encolados a la base de datos en la Nube: {y}");
+                Thread.Sleep(2000);
+            }
         }
     }
     public class Funcionalidades{
