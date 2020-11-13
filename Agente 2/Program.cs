@@ -5,8 +5,7 @@ using Experimental.System.Messaging;
 
 namespace Agente2
 {
-    class Agente2
-    {
+    class Agente2{
         static async System.Threading.Tasks.Task Main(string[] args)
         {
             int x = 0;
@@ -23,6 +22,8 @@ namespace Agente2
                 Console.WriteLine("Trabajando...");
                 Console.WriteLine($"Mensajes Encolados a la base de datos en la Nube: {y}");
                 Thread.Sleep(2000);
+            }
+        }
     }
     public class Funcionalidades{
         public String Recibir(MessageQueue Cola){
