@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\Agentes.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 1\\Agentes.csproj",
       "projectName": "Agentes",
-      "projectPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\Agentes.csproj",
+      "projectPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 1\\Agentes.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\obj\\",
+      "outputPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"

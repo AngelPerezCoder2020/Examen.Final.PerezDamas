@@ -14,3 +14,19 @@ C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Sem
 C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\obj\Debug\netcoreapp3.1\Agentes.dll
 C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\obj\Debug\netcoreapp3.1\Agentes.pdb
 C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\obj\Debug\netcoreapp3.1\Agentes.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.pdb
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Agentes.exe
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Agentes.deps.json
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Agentes.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Agentes.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Agentes.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Agentes.pdb
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.csproj.CopyComplete
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agente 1\obj\Debug\netcoreapp3.1\Agentes.genruntimeconfig.cache
