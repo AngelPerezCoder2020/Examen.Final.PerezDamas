@@ -23,8 +23,6 @@ namespace Agente2
                 Console.WriteLine("Trabajando...");
                 Console.WriteLine($"Mensajes Encolados a la base de datos en la Nube: {y}");
                 Thread.Sleep(2000);
-            }
-        }
     }
     public class Funcionalidades{
         public String Recibir(MessageQueue Cola){
