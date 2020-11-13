@@ -18,6 +18,7 @@ namespace Agente2
 
             while(x==0){
                 y++;
+                Console.Clear();
                 await Funciones.EnviarAlaNubeAsync(cola, db);
                 Console.WriteLine("Trabajando...");
                 Console.WriteLine($"Mensajes Encolados a la base de datos en la Nube: {y}");
