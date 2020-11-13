@@ -9,6 +9,7 @@ namespace Agentes
     {
         static void Main(string[] args)
         {
+            string opc = "";
             int y = 0;
             Console.Clear();
             int x = 0;
@@ -16,15 +17,32 @@ namespace Agentes
             MessageQueue cola = new MessageQueue(".\\private$\\Nombres.Aleatorios");
             Funcionalidades Funciones = new Funcionalidades();
             do{
-                y++;
                 Console.Clear();
-                archivo = Funciones.Generar_Archivo(archivo);
-                Message w = Funciones.Crear_Mensage(archivo);
-                Funciones.Enviar(w, cola);
-                Console.WriteLine("Trabajando... \n");
-                Console.WriteLine($"Mensajes Encolados: {y}");
-                Thread.Sleep(2000);
-            }while(x == 0);
+                Console.WriteLine("|AGENTE 1 --- ' EncolaWindow '| \n \nIngrese Una Opción para continuar: \n \n1.ACTIVAR AGENTE \n2.SALIR DEL PROGRAMA");
+                opc = Console.ReadLine();
+                switch(opc){
+                    case "1":
+                        Console.WriteLine(" \n \nActivando Funcionalidad...");
+                        Thread.Sleep(2000);
+                        while(x==0){
+                            Console.Clear();
+                            archivo = Funciones.Generar_Archivo(archivo);
+                            Funciones.Encolar_Mensage(archivo,cola);
+                            y++;
+                            Console.WriteLine($"     |AGENTE 1 --- ' EncolaWindow '| \n \nMensajes Encolados a las colas locales de Windows: {y}");
+                            Thread.Sleep(3000);
+                        }
+                    break;
+                    case "2":
+                        Console.WriteLine(" \n \nEl agente numero 1 ya se va a dormir... zzZZ");
+                        Console.ReadKey();
+                    break;
+                    default:
+                        Console.WriteLine($" \n \nLa opcion '{opc}' no existe, por favor presione Enter e intentelo de nuevo");
+                        Console.ReadKey();
+                    break;
+                }
+            }while(opc != "2");
         }
     }
     public class Funcionalidades{
@@ -32,14 +50,11 @@ namespace Agentes
             x = Path.GetRandomFileName();
             return x;
         }
-        public Message Crear_Mensage(string x){
+        public void Encolar_Mensage(string x, MessageQueue y){
             Message msg = new Message();
             msg.Label = "Archivo";
             msg.Body = x; 
-            return msg;           
-        }
-        public void Enviar(Message x, MessageQueue y){
-            y.Send(x);
+            y.Send(msg);           
         }
     }
 }
