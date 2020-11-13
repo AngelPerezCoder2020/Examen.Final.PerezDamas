@@ -13,3 +13,30 @@ C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Sem
 C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.dll
 C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.pdb
 C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Api.Gax.Rest.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Apis.Storage.v1.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Cloud.Firestore.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Cloud.Firestore.V1.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Cloud.Storage.V1.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll

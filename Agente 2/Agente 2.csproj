@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Experimental.System.Messaging" Version="1.1.0" />
+    <PackageReference Include="Google.Cloud.Firestore" Version="2.2.0" />
+    <PackageReference Include="Google.Cloud.Storage.V1" Version="3.3.0" />
   </ItemGroup>
 
 </Project>
