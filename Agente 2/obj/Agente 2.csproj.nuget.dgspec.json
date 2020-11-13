@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 2\\Agente 2.csproj": {}
+    "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\Agente 2\\Agente 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 2\\Agente 2.csproj": {
+    "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\Agente 2\\Agente 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 2\\Agente 2.csproj",
+        "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\Agente 2\\Agente 2.csproj",
         "projectName": "Agente 2",
-        "projectPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 2\\Agente 2.csproj",
+        "projectPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\Agente 2\\Agente 2.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agente 2\\obj\\",
+        "outputPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Segundo Semestre\\Examenes Finales\\Segunda Semana\\Algoritmos\\Agentes\\Agente 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Experimental.System.Messaging": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

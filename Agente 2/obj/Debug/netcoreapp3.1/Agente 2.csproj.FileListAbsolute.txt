@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Agente 2.exe
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Agente 2.deps.json
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Agente 2.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Agente 2.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Agente 2.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Agente 2.pdb
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.csproj.CopyComplete
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.dll
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.pdb
+C:\Users\angel\OneDrive\Escritorio\Segundo Semestre\Examenes Finales\Segunda Semana\Algoritmos\Agentes\Agente 2\obj\Debug\netcoreapp3.1\Agente 2.genruntimeconfig.cache
